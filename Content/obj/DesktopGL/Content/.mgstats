@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Swinburne/Sem9/OOP/dOOPle Jump/Content/Ground.png","D:/Swinburne/Sem9/OOP/dOOPle Jump/Content/bin/DesktopGL/Content/Ground.xnb","TextureProcessor","Texture2DContent",30176,288085,0.0966607
+"D:/Swinburne/Sem9/OOP/dOOPle Jump/Content/Platform.png","D:/Swinburne/Sem9/OOP/dOOPle Jump/Content/bin/DesktopGL/Content/Platform.xnb","TextureProcessor","Texture2DContent",360,24085,0.0892388
+"D:/Swinburne/Sem9/OOP/dOOPle Jump/Content/Player.png","D:/Swinburne/Sem9/OOP/dOOPle Jump/Content/bin/DesktopGL/Content/Player.xnb","TextureProcessor","Texture2DContent",1203,40085,0.08963
+"D:/Swinburne/Sem9/OOP/dOOPle Jump/Content/VCR OSD Mono.spritefont","D:/Swinburne/Sem9/OOP/dOOPle Jump/Content/bin/DesktopGL/Content/VCR OSD Mono.xnb","FontDescriptionProcessor","SpriteFontContent",2015,70690,0.1558482

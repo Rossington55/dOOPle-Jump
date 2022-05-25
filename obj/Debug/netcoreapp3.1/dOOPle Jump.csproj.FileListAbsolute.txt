@@ -1,0 +1,54 @@
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\dOOPle Jump.exe
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\dOOPle Jump.deps.json
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\dOOPle Jump.runtimeconfig.json
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\dOOPle Jump.runtimeconfig.dev.json
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\dOOPle Jump.dll
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\dOOPle Jump.pdb
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.csproj.AssemblyReference.cache
+D:\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.AssemblyInfoInputs.cache
+D:\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.AssemblyInfo.cs
+D:\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.csproj.CoreCompileInputs.cache
+D:\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.csproj.CopyComplete
+D:\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.dll
+D:\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.pdb
+D:\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.genruntimeconfig.cache
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\Content\Player.xnb
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\Content\platform.xnb
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\Content\platform.xnb
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\Content\Player.xnb
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\dOOPle Jump.exe
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\dOOPle Jump.deps.json
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\dOOPle Jump.runtimeconfig.json
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\dOOPle Jump.runtimeconfig.dev.json
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\dOOPle Jump.dll
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\dOOPle Jump.pdb
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.csproj.AssemblyReference.cache
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.GeneratedMSBuildEditorConfig.editorconfig
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.AssemblyInfoInputs.cache
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.AssemblyInfo.cs
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.csproj.CoreCompileInputs.cache
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.csproj.CopyComplete
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.dll
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.pdb
+D:\everything\Swinburne\Sem9\OOP\dOOPle Jump\obj\Debug\netcoreapp3.1\dOOPle Jump.genruntimeconfig.cache
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\Content\Ground.xnb
+D:\Swinburne\Sem9\OOP\dOOPle Jump\bin\Debug\netcoreapp3.1\Content\VCR OSD Mono.xnb

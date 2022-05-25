@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dOOPle Jump", "dOOPle Jump.csproj", "{20AA46A1-B1C2-4309-82BE-3D9155341579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20AA46A1-B1C2-4309-82BE-3D9155341579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AA46A1-B1C2-4309-82BE-3D9155341579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AA46A1-B1C2-4309-82BE-3D9155341579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AA46A1-B1C2-4309-82BE-3D9155341579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFF975FE-EF1F-4D89-8B5C-7B8D2AA5D0FA}
+	EndGlobalSection
+EndGlobal

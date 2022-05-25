@@ -1,0 +1,116 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>10</x><y>470</y><w>210</w><h>110</h></coordinates><panel_attributes>_Game_
+--
+- mrBob: GameManager
+--
++ Initialize()
++ LoadContent()
++ Update(GameTime gameTime)
++ Draw(GameTime gameTime)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>320</x><y>470</y><w>320</w><h>320</h></coordinates><panel_attributes>_GameManager_
+--
+- _platforms: List&lt;GameObject&gt;
+- _player: Player
+- _gameSpeed: float
+- _mode: GameMode&lt;&lt;enum&gt;&gt;
+- _lastPlatform: int
+- _currentPlatform: int
+- _score: int
+- _maxPlatformDistance: int
+
+--
+--
++ GameManager()
+--
++ Init()
+
++ IsPlayerCollided(out Collider col): bool
+- GenerateNewPlatforms(): bool
+
+
++ Update()
++ Render()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>740</x><y>80</y><w>360</w><h>240</h></coordinates><panel_attributes>_GameObject_
+--
+- _pos: Vector2
+- _size: Vector2
+- _col: Collider
++ mrBob: GameManager
++ sprite: Texture2D
+--
++ Pos: Vector2
++ ScreenPos &lt;&lt;readonly&gt;&gt;: Vector2
++ Col: Collider
+
+--
+--
++ GameObject(GameManager mrBob, int x, int y, int w, int h)
+--
++ Update()
++ Render() 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>1200</x><y>80</y><w>350</w><h>330</h></coordinates><panel_attributes>&lt;&lt;abstract&gt;&gt;
+_Collider_
+--
+- _x: int
+- _y: int
++ shape: Shape&lt;&lt;enum&gt;&gt;
++ X: int
++ Y: int
+--
++ Top &lt;&lt;abstract&gt;&gt;: int
++ Bottom &lt;&lt;abstract&gt;&gt;: int
++ Left &lt;&lt;abstract&gt;&gt;: int
++ Right &lt;&lt;abstract&gt;&gt;: int
+
+--
+--
++ Collider()
+--
+
++ IsCollided(Collider otherCol) &lt;&lt;abstract&gt;&gt;: bool
++ IsInside(Collider otherCol) &lt;&lt;abstract&gt;&gt;: bool
+
++ AABBCollision(Collider a, Collider b): bool
++ AABBInside(Collider a, Collider b): bool</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>1200</x><y>460</y><w>250</w><h>140</h></coordinates><panel_attributes>_BoxCollider_
+--
+- _width: int
+- _height: int
+
+--
+--
++ BoxCollider(int x, int y, int w, int h)
+--
++ IsCollided(Collider otherCol): bool
++ IsInside(Collider otherCol): bool
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>740</x><y>720</y><w>320</w><h>190</h></coordinates><panel_attributes>_Player_
+--
+- SPEED &lt;&lt;const&gt;&gt;: float
+- CATCH_TOLERANCE &lt;&lt;const&gt;&gt;: float
+
+- _velocity: Vector2
+- _standing: bool
+
+--
+--
++ Player(GameManager mrBob, int x, int y, int w, int h)
+--
++ Move()
++ Jump()
++ Update()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>210</x><y>480</y><w>130</w><h>40</h></coordinates><panel_attributes>lt=&lt;..
+uses</panel_attributes><additional_attributes>110;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>630</x><y>510</y><w>130</w><h>240</h></coordinates><panel_attributes>lt=&lt;..
+uses</panel_attributes><additional_attributes>110;220;60;220;60;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>890</x><y>310</y><w>260</w><h>430</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>100;10;100;40;240;40;240;360;10;360;10;410</additional_attributes></element><element><id>Relation</id><coordinates><x>1320</x><y>400</y><w>30</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;60</additional_attributes></element><element><id>Relation</id><coordinates><x>1090</x><y>140</y><w>130</w><h>380</h></coordinates><panel_attributes>lt=&lt;..
+uses
+</panel_attributes><additional_attributes>110;360;60;360;60;10;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>630</x><y>480</y><w>130</w><h>50</h></coordinates><panel_attributes>lt=&lt;..
+uses
+</panel_attributes><additional_attributes>110;20;10;20</additional_attributes></element><element><id>UMLClass</id><coordinates><x>740</x><y>460</y><w>370</w><h>110</h></coordinates><panel_attributes>_BasicPlatform_
+--
+- _width: int
+- _height: int
+
+--
+--
++ BasicPlatform(GameManager mrBob, int x, int y, int w, int h)
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>920</x><y>310</y><w>30</w><h>170</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;150</additional_attributes></element><element><id>UMLClass</id><coordinates><x>390</x><y>280</y><w>210</w><h>70</h></coordinates><panel_attributes>_Constants_
+--
++ SCREEN_SIZE &lt;&lt;const&gt;&gt;: Vector2
++ PLATFORM_SIZE &lt;&lt;const&gt;&gt;: Vector2 </panel_attributes><additional_attributes></additional_attributes></element></diagram>
